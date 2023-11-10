@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="p-5 flex items-center justify-between">
       <div className="flex items-center space-x-2">
-        <Image src="https://source.unsplash.com/random" alt="Logo" height={32} width={32} />
+        <Image src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Logo" height={32} width={32} />
         <h1 className="font-semibold text-lg">Company Name</h1>
       </div>
       <div className="flex items-center space-x-4">

@@ -11,7 +11,7 @@ const Login = () => {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center">
-      <Image src="https://source.unsplash.com/random" alt="Logo" height={80} width={80} className="mb-8" />
+      <Image src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Logo" height={92} width={272} className="mb-8" />
       <div className="max-w-md w-full">
         <input
           type="text"
